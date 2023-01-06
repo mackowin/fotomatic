@@ -1,5 +1,5 @@
 # :video_camera: Fotomatic #
-CodeCademy Project: fixing a broken version of a responsive website
+CodeCademy Project: Fixing a broken version of a responsive website
 
 ## Table of Contents ##
 * [General Info](#General-Info)
